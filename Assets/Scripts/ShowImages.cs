@@ -15,12 +15,14 @@ public class ShowImages : MonoBehaviour {
         joeBiden.SetActive(vertiba);
         obama.SetActive(false);
         obamna.SetActive(false);
+        
     }
     public void obamaAttelosana(bool vertiba)
     {
         obama.SetActive(vertiba);
         joeBiden.SetActive(false);
         obamna.SetActive(false);
+     
     }
     public void obamnaAttelosana(bool vertiba) {
         obamna.SetActive(vertiba);
