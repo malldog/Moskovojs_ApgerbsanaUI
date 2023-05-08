@@ -1,10 +1,13 @@
 fileFormatVersion: 2
 guid: 48088f6431a4891409b1103ce7c06247
-timeCreated: 1683467974
+timeCreated: 1683534439
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: bikses_melnisorti
+    21300002: bikses.zilisorti
+    21300004: krekls.zilajaka
+    21300006: krekls.pelekstop
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -78,6 +81,45 @@ TextureImporter:
         y: 14
         width: 67
         height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bikses.zilisorti
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 108
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krekls.zilajaka
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 275
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krekls.pelekstop
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 394
+        width: 48
+        height: 85
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

@@ -7,7 +7,9 @@ public class ShowImages : MonoBehaviour {
     public GameObject obama;
     public GameObject obamna;
     public GameObject shirtIMG;
+    public GameObject shirt2IMG;
     public GameObject pantsIMG;
+    public GameObject pants2IMG;
     public GameObject hatIMG;
     public GameObject spriteIMG;
 
@@ -31,10 +33,12 @@ public class ShowImages : MonoBehaviour {
     }
     public void kreklaAttelosana(bool vertiba) {
         shirtIMG.SetActive(vertiba);
+        shirt2IMG.SetActive(vertiba);
     }
     public void biksuAttelosana(bool vertiba)
     {
         pantsIMG.SetActive(vertiba);
+        pants2IMG.SetActive(vertiba);
     }
     public void cepuresAttelosana(bool vertiba)
     {
