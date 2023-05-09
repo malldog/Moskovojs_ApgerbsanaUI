@@ -1,9 +1,18 @@
 fileFormatVersion: 2
 guid: f89793985d80a49479f1cb254a73d732
-timeCreated: 1683467122
+timeCreated: 1683660998
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: bikses.melnas
+    21300002: bikses.roza
+    21300004: bikses.sortizili
+    21300006: krekls.roza
+    21300008: metelis.roza
+    21300010: krekls.sarkans
+    21300012: kleita.violeta
+    21300014: kurpes.zalas
+    21300016: somina.sarkana
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -68,7 +77,124 @@ TextureImporter:
     overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: bikses.melnas
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 200
+        width: 62
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bikses.roza
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 12
+        width: 63
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bikses.sortizili
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 431
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krekls.roza
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 428
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metelis.roza
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 163
+        width: 82
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krekls.sarkans
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 428
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kleita.violeta
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 198
+        width: 81
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kurpes.zalas
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 67
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: somina.sarkana
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 

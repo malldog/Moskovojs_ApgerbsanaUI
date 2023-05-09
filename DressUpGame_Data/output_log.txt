@@ -1,0 +1,55 @@
+Initialize engine version: 5.5.6f1 (3fb31a95adee)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   31.0.101.2111
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\rihar\Documents\Unitijs\Moskovojs_UnityApgerbsana\DressUpGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\rihar\Documents\Unitijs\Moskovojs_UnityApgerbsana\DressUpGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\rihar\Documents\Unitijs\Moskovojs_UnityApgerbsana\DressUpGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\rihar\Documents\Unitijs\Moskovojs_UnityApgerbsana\DressUpGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\rihar\Documents\Unitijs\Moskovojs_UnityApgerbsana\DressUpGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\rihar\Documents\Unitijs\Moskovojs_UnityApgerbsana\DressUpGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\rihar\Documents\Unitijs\Moskovojs_UnityApgerbsana\DressUpGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\rihar\Documents\Unitijs\Moskovojs_UnityApgerbsana\DressUpGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\rihar\Documents\Unitijs\Moskovojs_UnityApgerbsana\DressUpGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\rihar\Documents\Unitijs\Moskovojs_UnityApgerbsana\DressUpGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\rihar\Documents\Unitijs\Moskovojs_UnityApgerbsana\DressUpGame_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\rihar\Documents\Unitijs\Moskovojs_UnityApgerbsana\DressUpGame_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: C:\Users\rihar\Documents\Unitijs\Moskovojs_UnityApgerbsana\DressUpGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\rihar\Documents\Unitijs\Moskovojs_UnityApgerbsana\DressUpGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.100600 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.533900 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 306.
+Total: 0.239800 ms (FindLiveObjects: 0.021200 ms CreateObjectMapping: 0.013200 ms MarkObjects: 0.193900 ms  DeleteObjects: 0.011000 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.782600 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 292.
+Total: 0.249300 ms (FindLiveObjects: 0.028000 ms CreateObjectMapping: 0.012800 ms MarkObjects: 0.197300 ms  DeleteObjects: 0.010500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.385500 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 765.
+Total: 0.684500 ms (FindLiveObjects: 0.036900 ms CreateObjectMapping: 0.022400 ms MarkObjects: 0.611700 ms  DeleteObjects: 0.012700 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.380700 ms
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 296.
+Total: 5.903800 ms (FindLiveObjects: 0.038100 ms CreateObjectMapping: 0.022900 ms MarkObjects: 0.234100 ms  DeleteObjects: 5.607900 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 37dc -> priority: 1 
